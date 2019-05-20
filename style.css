@@ -189,7 +189,7 @@ footer p a {
 .gallery-item {
     width: 30%;
     margin: 0.5em;
-    height: 500px;
+    height: 600px;
 }
 
 .gallery-item:nth-child(1) {
