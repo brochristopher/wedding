@@ -209,7 +209,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(3) {
-    background: url("./images/familypic2.jpg");
+    background: url("./images/Familypic2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -233,7 +233,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(6) {
-    background: url("./images/onesie.jpg");
+    background: url("./images/onesie.jpeg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
