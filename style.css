@@ -193,7 +193,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(1) {
-    background: url("./images/sixflags1.jpg");
+    background: url("./images/sixflags3.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -201,7 +201,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(2) {
-    background: url("./images/sixflags2.jpg");
+    background: url("./images/JKGoatPic.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -209,7 +209,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(3) {
-    background: url("./images/sixflags3.jpg");
+    background: url("./images/familypic2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -217,7 +217,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(4) {
-    background: url("./images/sixflags1.jpg");
+    background: url("./images/mistletoe.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -225,7 +225,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(5) {
-    background: url("./images/sixflags2.jpg");
+    background: url("./images/cavepic2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -233,7 +233,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(6) {
-    background: url("./images/sixflags3.jpg");
+    background: url("./images/onesie.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
