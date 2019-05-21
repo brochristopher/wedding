@@ -193,7 +193,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(1) {
-    background: url("./images/JKGoatpic.jpg");
+    background: url("./images/JKGoatPic.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
