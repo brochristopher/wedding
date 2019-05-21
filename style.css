@@ -201,7 +201,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(2) {
-    background: url("./images/sixflags3.jpg");
+    background: url("./images/beerkiss.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
