@@ -217,7 +217,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(4) {
-    background: url("./images/engagement2.jpg");
+    background: url("./images/cavepic2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -225,7 +225,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(5) {
-    background: url("./images/cavepic2.jpg");
+    background: url("./images/engagement2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
