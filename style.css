@@ -108,7 +108,7 @@ section p {
 }
 
 section:nth-child(1) {
-    background-image: url("./images/FamilyZoo.jpg");
+    background-image: url("./images/engagement5.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: 80% 15%;
@@ -193,7 +193,7 @@ footer p a {
 }
 
 .gallery-item:nth-child(1) {
-    background: url("./images/JKGoatPic.jpg");
+    background: url("./images/engagement6.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
@@ -209,15 +209,15 @@ footer p a {
 }
 
 .gallery-item:nth-child(3) {
-    background: url("./images/Familypic2.jpg");
+    background: url("./images/JKGoatPic.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
 }
 
 .gallery-item:nth-child(4) {
-    background: url("./images/mistletoe.jpg");
+    background: url("./images/Familypic2.jpg");
     background-size: cover;
     background-color: var(--primary-color);
     background-position: top center;
