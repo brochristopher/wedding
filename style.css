@@ -303,7 +303,7 @@ footer p a {
     }
     
     section:nth-child(1) {
-        background-image: url("./images/FamilyZoo.jpg");
+        background-image: url("./images/engagement5.jpg");
         background-size: cover;
         background-color: var(--primary-color);
         background-position: 70% 15%;
